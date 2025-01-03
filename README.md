@@ -1,6 +1,6 @@
-# revisioon-manager
+# revision-manager
 
-An Electron application with React and TypeScript
+A revision manager app
 
 ## Recommended IDE Setup
 
